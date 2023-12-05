@@ -1,6 +1,6 @@
-# destini
+# Destini App Challenge
 
-A new Flutter project.
+A new Flutter skeleton project for DynaTech Flutter Class.
 
 ## Getting Started
 
